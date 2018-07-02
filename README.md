@@ -12,7 +12,7 @@ licence  : GPL 2 - MIT
 
 Install :
 
-http://monsite/myAdmin/index.php?A&Payment\PostCanada
+http://monsite/myAdmin/index.php?A&Shippig\PostCanada
 
 Activate the module in Shipping
 
