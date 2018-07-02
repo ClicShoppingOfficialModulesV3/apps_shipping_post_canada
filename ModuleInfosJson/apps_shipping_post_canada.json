@@ -10,7 +10,7 @@
   "license":			"GPL 2 - MIT",
   "tag":			    "shipping, post canada",
   "install":            "includes/ClicShopping/Apps/Shipping/",
-  "module_directory":   "Payment",
+  "module_directory":   "Shipping",
   "apps_name":          "PostCanada",
   "type_module":      "Fixe",
   "dependance":       "",
