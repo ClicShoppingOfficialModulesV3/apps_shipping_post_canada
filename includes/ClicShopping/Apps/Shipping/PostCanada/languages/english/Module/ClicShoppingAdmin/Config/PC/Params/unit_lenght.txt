@@ -1,0 +1,5 @@
+cfg_postcanada_unit_lenght_title = Select the default lenght use for your products
+cfg_postcanada_unit_lenght_description = default lenght use for your products
+
+cfg_postcanada_unit_lenght_cm = CM
+cfg_postcanada_unit_lenght_in = IN

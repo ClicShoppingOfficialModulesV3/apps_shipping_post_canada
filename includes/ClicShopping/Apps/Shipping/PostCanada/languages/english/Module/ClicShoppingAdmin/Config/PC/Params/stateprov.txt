@@ -1,0 +1,2 @@
+cfg_postcanada_stateprov_title = Origin State/Province
+cfg_postcanada_stateprov_description = Enter the two-letter code for your origin state/province (QC, ON ...)

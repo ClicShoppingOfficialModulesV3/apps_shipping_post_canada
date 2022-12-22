@@ -1,0 +1,2 @@
+cfg_postcanada_customer_number_title = Numéro client Canada Post
+cfg_postcanada_customer_number_description = Veuillez entrer votre numéro client

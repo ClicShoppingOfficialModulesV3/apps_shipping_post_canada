@@ -1,0 +1,2 @@
+cfg_postcanada_handling_title = Frais emballage
+cfg_postcanada_handling_desc = Frais emballage par méthode d'expédition

@@ -1,0 +1,6 @@
+cfg_postcanada_status_title = Statut d'affichage du module
+cfg_postcanada_status_description = Sélectionner True pour afficher le module
+
+cfg_postcanada_status_true = True
+cfg_postcanada_status_false = False
+

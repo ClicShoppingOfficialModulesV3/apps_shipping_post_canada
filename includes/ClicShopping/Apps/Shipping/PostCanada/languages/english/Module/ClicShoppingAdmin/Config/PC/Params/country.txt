@@ -1,0 +1,2 @@
+cfg_postcanada_country_title = Origin Country
+cfg_postcanada_country_description = Enter the two-letter code for your origin country (CA)

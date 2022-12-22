@@ -1,0 +1,2 @@
+cfg_postcanada_postalcode_title = Origin Zip/Postal Code
+cfg_postcanada_postalcode_description = Enter your origin zip/postalcode (from which the parcel will be sent)

@@ -1,0 +1,2 @@
+cfg_postcanada_type_title = Disallowed Shipping Methods
+cfg_postcanada_type_description = Select the Canada Post services <span style="color: red; font-weight: bold;">not</span> to be offered

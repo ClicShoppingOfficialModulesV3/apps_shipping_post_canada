@@ -1,0 +1,2 @@
+cfg_postcanada_stateprov_title = Provice / Etat d'origine
+cfg_postcanada_stateprov_description = Veuillez insérer 2 lettres (QC, ON ...)

@@ -1,0 +1,8 @@
+cfg_postcanada_email_error_title = Email Canada Post errors
+cfg_postcanada_email_error_description = Do you want to receive Canada Post errors by email?
+
+cfg_postcanada_email_error_yes = Yes
+cfg_postcanada_email_error_no = No
+
+
+

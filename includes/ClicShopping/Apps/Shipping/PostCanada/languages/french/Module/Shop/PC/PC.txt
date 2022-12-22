@@ -1,0 +1,5 @@
+module_postcanada_text_title = Expédition via Post Canada
+module_postcanada_short_title = Expédition via to Post Canada
+module_postcanada_public_title = Expédition via Post Canada
+module_postcanada_title =  Expédition via Post Canada
+module_postcanada_text_way = Meilleur chemin

@@ -1,0 +1,5 @@
+cfg_postcanada_handling_type_title = Type d'emballage
+cfg_postcanada_handling_type_description = Type emballage par commande
+
+cfg_postcanada_handling_type_flat_fee = Frais taux fixe
+cfg_postcanada_handling_type_percentage = Pourcentage

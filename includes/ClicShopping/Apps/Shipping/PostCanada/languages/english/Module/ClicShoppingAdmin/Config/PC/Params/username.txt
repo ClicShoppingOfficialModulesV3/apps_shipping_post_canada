@@ -1,0 +1,2 @@
+cfg_postcanada_username_title = Canada Post API Username
+cfg_postcanada_username_description = Enter your Canada Post (API Keys) username

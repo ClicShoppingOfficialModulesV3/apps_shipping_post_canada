@@ -1,0 +1,2 @@
+cfg_postcanada_sort_order_title = Sort Order
+cfg_postcanada_sort_order_description = The sort order location of the module shown in the available shipping methods listing (lowest is displayed first).

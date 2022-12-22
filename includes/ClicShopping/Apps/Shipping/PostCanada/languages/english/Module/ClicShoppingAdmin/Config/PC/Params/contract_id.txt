@@ -1,0 +1,2 @@
+cfg_postcanada_contract_id_title = Canada Post Contract ID
+cfg_postcanada_contract_id_description = Enter your Canada Post contract id <strong> for commercial/contracted rates only </strong>

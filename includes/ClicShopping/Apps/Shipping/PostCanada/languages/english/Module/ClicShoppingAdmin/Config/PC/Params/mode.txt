@@ -1,0 +1,5 @@
+cfg_postcanada_mode_title = Test or Production Mode
+cfg_postcanada_mode_description = Use this module in Test  or Production mode? <br /><br />Your API Keys username and password are different in Test and Production mode
+
+cfg_postcanada_mode_test = Test
+cfg_postcanada_mode_production = Production

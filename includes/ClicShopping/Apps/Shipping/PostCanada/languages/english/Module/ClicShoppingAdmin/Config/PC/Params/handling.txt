@@ -1,0 +1,2 @@
+cfg_postcanada_handling_title = Handling Fee
+cfg_postcanada_handling_desc = Handling fee for this shipping method

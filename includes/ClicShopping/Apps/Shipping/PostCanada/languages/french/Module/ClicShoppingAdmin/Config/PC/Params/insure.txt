@@ -1,0 +1,5 @@
+cfg_postcanada_insure_title = Souhaitez vous assurer votre paquets expédiés ?
+cfg_postcanada_insure_description = Assurance des paquets expédié
+
+cfg_postcanada_insure_true = True
+cfg_postcanada_insure_false = False

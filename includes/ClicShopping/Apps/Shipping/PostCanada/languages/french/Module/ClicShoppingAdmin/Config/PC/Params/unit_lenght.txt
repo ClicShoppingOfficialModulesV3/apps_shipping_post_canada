@@ -1,0 +1,5 @@
+cfg_postcanada_unit_lenght_title = Veuiller sélectionner la type de taille du paquet
+cfg_postcanada_unit_lenght_description = Profondeur du paquet par défaut
+
+cfg_postcanada_unit_lenght_cm = CM
+cfg_postcanada_unit_lenght_in = IN

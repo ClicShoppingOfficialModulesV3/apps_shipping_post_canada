@@ -1,0 +1,2 @@
+cfg_postcanada_city_title = Ville d'origine
+cfg_postcanada_city_description = Veuillez entre le nom de la ville d'origine

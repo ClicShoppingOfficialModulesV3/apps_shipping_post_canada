@@ -1,0 +1,5 @@
+module_postcanada_text_title = Shipping by Post Canada
+module_postcanada_short_title = Shipping by to Post Canada
+module_postcanada_public_title = Shipping by Post Canada
+module_postcanada_title = Shipping by Post Canada
+module_postcanada_text_way = Post Canada

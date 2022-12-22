@@ -1,0 +1,5 @@
+cfg_postcanada_quote_type_title = Canada Post Quote Type
+cfg_postcanada_quote_type_description = Either commercial (for the contract holder) or counter (regular price for consumers)
+
+cfg_postcanada_quote_type_commercial = Commercial
+cfg_postcanada_quote_type_counter = Counter

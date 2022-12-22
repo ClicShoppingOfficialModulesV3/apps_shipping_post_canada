@@ -1,0 +1,2 @@
+cfg_postcanada_country_title = Pays d'origine
+cfg_postcanada_country_description = Veuillez entrer les 2 lettres dy pays d'origine (CA)

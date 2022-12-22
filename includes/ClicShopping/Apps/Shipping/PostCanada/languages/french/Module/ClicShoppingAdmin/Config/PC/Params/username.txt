@@ -1,0 +1,2 @@
+cfg_postcanada_username_title = Nom utilisateur API
+cfg_postcanada_username_description = Veuillez insérer le nom utilisateur de l'API

@@ -1,0 +1,5 @@
+cfg_postcanada_mode_title = Mode test ou production
+cfg_postcanada_mode_description = Veuillez indiquer votre choix ? <br /><br />Votre clef API, nom utilisateur et mot de passe sont différent entre un mode test ou production
+
+cfg_postcanada_mode_test = Test
+cfg_postcanada_mode_production = Production

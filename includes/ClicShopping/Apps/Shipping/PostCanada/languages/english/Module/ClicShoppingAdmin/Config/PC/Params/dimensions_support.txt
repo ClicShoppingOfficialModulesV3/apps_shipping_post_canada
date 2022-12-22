@@ -1,0 +1,6 @@
+cfg_postcanada_dimension_support_title = Dimensions Support
+cfg_postcanada_dimension_support_description = Do you use the additional dimensions support?
+
+cfg_postcanada_dimension_support_no = No
+cfg_postcanada_dimension_support_ready_to_ship = Ready-to-ship only
+cfg_postcanada_dimension_support_product_dimension = With product dimensions

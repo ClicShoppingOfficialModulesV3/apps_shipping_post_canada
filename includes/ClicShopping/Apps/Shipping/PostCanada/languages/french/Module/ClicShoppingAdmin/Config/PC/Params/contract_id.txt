@@ -1,0 +1,2 @@
+cfg_postcanada_contract_id_title = Canada Post Contract ID
+cfg_postcanada_contract_id_description = Veuillez entrer le Canada Post contract id <strong> pour les taux commerciaux / contract seulement </strong>

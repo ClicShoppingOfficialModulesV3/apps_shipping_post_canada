@@ -1,0 +1,2 @@
+cfg_postcanada_postalcode_title = Code postal d'origine
+cfg_postcanada_postalcode_description = Veuillez insérer votre code postal d'origine (ou la paquet est expédié)

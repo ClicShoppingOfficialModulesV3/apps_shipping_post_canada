@@ -1,0 +1,5 @@
+cfg_postcanada_handling_type_title = Handling Type
+cfg_postcanada_handling_type_description = Handling type for this shipping method
+
+cfg_postcanada_handling_type_flat_fee = Flat Fee
+cfg_postcanada_handling_type_percentage = Percentage

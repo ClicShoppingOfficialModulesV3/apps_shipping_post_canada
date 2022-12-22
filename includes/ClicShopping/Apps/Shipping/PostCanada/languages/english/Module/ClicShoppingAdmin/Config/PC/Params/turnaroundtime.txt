@@ -1,0 +1,2 @@
+cfg_postcanada_turnaroundtime_title = Enter Turn Around Time
+cfg_postcanada_turnaroundtime_description = Turn Around Time (days)
